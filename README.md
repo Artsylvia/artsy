@@ -1,1 +1,3 @@
 # artsy
+
+print("hello world")
